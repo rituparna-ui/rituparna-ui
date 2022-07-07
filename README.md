@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=rituparna-ui)
 
 - 🔭 I’m currently learning and working on NodeJS, Angular, Flutter and MongoDB
-- 👯 I’m looking to collaborate on **Backend Development** and **MEAN Stack**
+- 👯 I’m looking to collaborate on **Backend Development** and **MEFAN Stack**
 - 📫 How to reach me: rwarwatkar@gmail.com or message me on [whatsapp](https://wa.me/917798516764)
 - ⚡ Fun fact: Hue Hue
 
