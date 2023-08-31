@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rituparna 🥳</h1>
 
-![](https://komarev.com/ghpvc/?username=rituparna-ui)
+![](https://komarev.com/ghpvc/?username=rituparna-ui) [![wakatime](https://wakatime.com/badge/user/a4a78b55-1646-4e6c-ab37-49a3aed24765.svg)](https://wakatime.com/@a4a78b55-1646-4e6c-ab37-49a3aed24765)
 
 - 🔭 I’m currently learning and working on NodeJS, Angular, Flutter and MongoDB
 - 👯 I’m looking to collaborate on **Backend Development** and **MEFAN Stack**
