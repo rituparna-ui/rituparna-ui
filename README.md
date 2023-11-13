@@ -2,8 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=rituparna-ui) [![wakatime](https://wakatime.com/badge/user/a4a78b55-1646-4e6c-ab37-49a3aed24765.svg)](https://wakatime.com/@a4a78b55-1646-4e6c-ab37-49a3aed24765)
 
-- 🔭 I’m currently learning and working on NodeJS, Angular, Flutter and MongoDB
-- 👯 I’m looking to collaborate on **Backend Development** and **MEFAN Stack**
+- 🔭 I’m currently learning and working on NodeJS, Angular, Flutter, MongoDB, React and NextJS
+- 👯 I’m looking to collaborate on **Backend Development** and **ME(F/A/R)N Stack**
+- 🧑‍🔬 I'm currently working as an SDE Intern at [Veritus.ai](https://veritus.ai)
 - 📫 How to reach me: rwarwatkar@gmail.com or message me on [whatsapp](https://wa.me/917798516764)
 - ⚡ Fun fact: Hue Hue
 
