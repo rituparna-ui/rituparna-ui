@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning and working on NodeJS, Angular, Flutter, MongoDB, React and NextJS
 - 👯 I’m looking to collaborate on **Backend Development** and **ME(F/A/R)N Stack**
-- 🧑‍🔬 I'm currently working as an SDE Intern at [Veritus.ai](https://veritus.ai)
+- 🧑‍🔬 I'm currently working as an SDE Intern at [Edfora](https://www.edfora.com/)
 - 📫 How to reach me: rwarwatkar@gmail.com or message me on [whatsapp](https://wa.me/917798516764)
 - ⚡ Fun fact: Hue Hue
 
