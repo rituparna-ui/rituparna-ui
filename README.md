@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rituparna 🥳</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rituparna 🦆</h1>
 
 ![](https://komarev.com/ghpvc/?username=rituparna-ui) [![wakatime](https://wakatime.com/badge/user/a4a78b55-1646-4e6c-ab37-49a3aed24765.svg)](https://wakatime.com/@a4a78b55-1646-4e6c-ab37-49a3aed24765)
 
-- 🔭 I’m currently learning and working on NodeJS, Angular, Flutter, MongoDB, React and NextJS
-- 👯 I’m looking to collaborate on **Backend Development** and **ME(F/A/R)N Stack**
-- 🧑‍🔬 I'm currently working as a Software Development Engineer at [Veritus.ai](https://www.veritus.ai/)
+- 🔭 I build AWS EC2 - Accelerated Nitro Platforms
+- 👯 I’m looking to collaborate on **System Programming** and **ME(F/A/R)N Stack**
+- 🧑‍🔬 I'm currently working as a Software Dev Engineer at [Amazon Web Services, Berlin](https://aws.amazon.com/)
 - 📫 How to reach me: rwarwatkar@gmail.com or message me on [whatsapp](https://wa.me/917798516764)
 - ⚡ Fun fact: Hue Hue
 
